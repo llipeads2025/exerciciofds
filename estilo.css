@@ -1,9 +1,24 @@
-#painel-sobre{
-	margin-top: 20px;
+body{
+    background-color:aquamarine;
 }
 
-.titulo-clientes{
-	background-color: #0275D8;
-	padding: 10px;
-	
+h1{
+    color: red;
+    text-align: center;
+}  
+p{font-size: 40px;}
+/*Parágrafo com fonte aumentada de acordo com pedido do exercício*/
+
+li{padding:10px;}
+
+img{
+    border-radius: 20px;
+}
+.tabela{
+    list-style: upper-alpha;
+    font-size: 20px;
+    color: brown;
+    overflow: hidden;
+}
+a:hover{color:red
 }
